@@ -3,7 +3,7 @@
 ## 👨‍💻 Sobre Mim
 
 Desenvolvedora front-end com 4 anos de experiência, contribui para os setores financeiros e de energias renováveis, utilizando Vue, React, Design System, JavaScript, TypeScript, HTML, CSS e Python.
-Iniciei minha transição de carreira de designer para front-end na Laboratória, um bootcamp focado na inclusão feminina no setor de tecnologia. Atualmente sou Cadete na 42 São Paulo, estudando engenharia da computação e desenvolvimento em C.
+Iniciei minha transição de carreira de designer para front-end na [Laboratória](https://www.laboratoria.la/br), um bootcamp focado na inclusão feminina no setor de tecnologia. Atualmente sou Cadete na [42 São Paulo](https://www.42sp.org.br/formacao-engenharia-software), estudando engenharia da computação e desenvolvimento em C.
 Procuro por desafios que me permitam usar minhas habilidades para gerar mudanças positivas e que estejam alinhados com meus princípios.
 
 
@@ -17,6 +17,7 @@ Procuro por desafios que me permitam usar minhas habilidades para gerar mudança
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Vue](https://img.shields.io/badge/-Vue-42b883?style=flat-square&logo=vue&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
 

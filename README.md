@@ -1,6 +1,6 @@
 # 👋 Olá, Eu sou a Akemi!
 
-## 👨‍💻 Sobre Mim
+## 👩‍💻 Sobre Mim
 
 Desenvolvedora front-end com 4 anos de experiência, contribui para os setores financeiros e de energias renováveis, utilizando Vue, React, Design System, JavaScript, TypeScript, HTML, CSS e Python.
 Iniciei minha transição de carreira de designer para front-end na [Laboratória](https://www.laboratoria.la/br), um bootcamp focado na inclusão feminina no setor de tecnologia. Atualmente sou Cadete na [42 São Paulo](https://www.42sp.org.br/formacao-engenharia-software), estudando engenharia da computação e desenvolvimento em C.
@@ -35,7 +35,7 @@ Procuro por desafios que me permitam usar minhas habilidades para gerar mudança
 
 ## 💬 Vamos Conversar!
 
-- 🤝 Estou sempre aberto a colaborações em projetos interessantes
+- 🤝 Estou sempre aberta a colaborações em projetos interessantes
 - 📫 Como me alcançar: [camilla.noba@gmail.com]
 
 ---

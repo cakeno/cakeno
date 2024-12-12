@@ -13,6 +13,7 @@ Procuro por desafios que me permitam usar minhas habilidades para gerar mudança
 ## 🚀 Projetos 42 São Paulo
 [![Libft](https://github-readme-stats.vercel.app/api/pin/?username=cakeno&repo=42-libft)](https://github.com/cakeno/42-libft)
 [![Born2beRoot](https://github-readme-stats.vercel.app/api/pin/?username=cakeno&repo=42-born2beroot)](https://github.com/cakeno/42-born2beroot)
+[![Born2beRoot](https://github-readme-stats.vercel.app/api/pin/?username=cakeno&repo=42-ft_printf)](https://github.com/cakeno/42-ft_printf)
 
 ## 🛠 Tecnologias e Ferramentas
 

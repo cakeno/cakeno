@@ -33,7 +33,7 @@ Procuro por desafios que me permitam usar minhas habilidades para gerar mudança
 
 ## 🌐 Conecte-se Comigo
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white)](seu-link-do-linkedin)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/noba/)
 <!--[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=react&logoColor=white)](seu-link-do-portfolio)-->
 
 ## 💬 Vamos Conversar!

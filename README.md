@@ -8,7 +8,6 @@ Procuro por desafios que me permitam usar minhas habilidades para gerar mudança
 
 
 - 🎓 Estudante de Engenharia de Software na [42 São Paulo](https://www.42sp.org.br/formacao-engenharia-software)
-- 🌱 Atualmente aprendendo C
 - 🚀 Sempre em busca de novos desafios e oportunidades de aprendizado
 
 ## 🚀 Projetos 42 São Paulo
